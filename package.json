@@ -1,5 +1,5 @@
 {
-  "name": "serve-index",
+  "name": "@invelo/directory",
   "description": "Serve directory listings",
   "version": "1.6.3",
   "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
